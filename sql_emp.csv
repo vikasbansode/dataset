@@ -1,0 +1,8 @@
+EmployeID,Ename,DeptID,Salary,Dname,Dlocation
+1001,John,2,4000,IT,New Delhi
+1002,Anna,1,3500,HR,Mumbai
+1003,James,1,2500,HR,Mumbai
+1004,David,2,5000,IT,New Delhi
+1005,Mark,2,3000,IT,New Delhi
+1006,Steve,3,4500,Finance,Mumbai
+1007,Alice,3,3500,Finance,Mumbai
